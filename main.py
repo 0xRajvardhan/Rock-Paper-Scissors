@@ -48,7 +48,7 @@ else:
 
 
 '''
-Game name => Stone Paper Scissors
+Game name => Rock Paper Scissors
 Code Author => Rajvardhan Singh
 
 '''
